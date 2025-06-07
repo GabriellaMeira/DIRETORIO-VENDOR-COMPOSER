@@ -1,0 +1,17 @@
+{
+    "name": "rasta/diretorio-vendor-composer",
+    "autoload": {
+        "psr-4": {
+            "Rasta\\DiretorioVendorComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabriellaMeira",
+            "email": "gabimeira2000@gmail.com"
+        }
+    ],
+    "require": {
+        "wead/cep-gratis": "^3.0"
+    }
+}
